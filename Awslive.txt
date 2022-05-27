@@ -1,1 +1,2 @@
 this is awslive python source code
+after that git clone to ec2 instances 
